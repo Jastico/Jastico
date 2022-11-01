@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jastico
+- 👋 Hi, I’m @Jastico i am a gay wolf that loves snuggles and learning new things 
 - 👀 I’m interested in Fishing, Volkswagens, Furries
 - 🌱 I’m currently learning Python
 - ❓ Im wanting to learn Java, Javascript, and HTML 
