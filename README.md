@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jastico
 - 👀 I’m interested in Fishing, Volkswagens, Furries
-- 🌱 I’m currently learning Python, Javascript 
+- 🌱 I’m currently learning Python
+- ❓ Im wanting to learn Java, Javascript, and HTML 
 - 📫 How to reach me If you need me please message me on discord. JasticoW#9849
 
 <!---
